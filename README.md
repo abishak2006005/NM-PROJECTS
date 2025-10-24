@@ -66,7 +66,7 @@ Open index.html in your browser and test the form.
 
 Demo
 
-https://balamurugan200526.github.io/NM-Project/
+https://abishak2006005.github.io/NM-PROJECTS/
 
 
 Challenges & Solutions
