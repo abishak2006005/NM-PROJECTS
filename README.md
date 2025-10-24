@@ -1,6 +1,6 @@
-IBM Node.js Client-Side Validation Project
+IBM Node.js Client-Side form Validation Project
 
-Author: S. Balamurugan
+Author: S. Abishak
 College: A.V.C College of Engineering
 
 Project Overview
