@@ -32,7 +32,7 @@ Backend: Node.js
 Validation: JavaScript (client-side)
 
 Project Structure
-IBM-NJ-Client-Side-Validation/
+NM-Project/
 │
 ├─ server.js           # Node.js server
 ├─ index.html          # Main HTML form
@@ -44,7 +44,7 @@ How to Run Locally
 
 Clone the repository:
 
-git clone https://github.com/Balamurugan200526/NM-Project.git
+git clone https://github.com/abishak2006005/NM-PROJECTS.git
 
 
 Navigate to the project folder:
